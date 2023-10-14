@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f249a77c-48d2-46fe-b9fc-f793d4758aee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CostumerPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apps/DefaultPhoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apps/Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apps/Youtube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/CallService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diagram/Diagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Phone.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,7 +37,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2Wjrwq6owNWTBcU1mAtNsBR8AXs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
